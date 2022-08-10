@@ -1,0 +1,152 @@
+body{
+	padding: 30px;
+}
+.header-navigation{
+	display: inline-block;
+	margin-left: 30px;
+}
+.header-navigation li{
+font-size: 22px;
+display: inline-block;
+margin: 20px;
+font-family: Mtavruli;
+}
+.logo{
+	margin-right: 50px;
+}
+.header-navigation .active-page{
+color: #EE4036;	
+}
+.article-header{
+	margin: 100px 0px;
+	margin-bottom: 40px;
+	font-family: "Roboto",fantasy;
+}
+.main-article div{
+	width: 570px;
+	display: inline-block;
+	padding: 0px 20px;
+	font-family:"Roboto",fantasy;
+
+}
+.left-div{
+	margin-right: 45px;
+}
+.main-article div p{
+	display: inline-block;
+	font-size: 20px;
+	width: 355px;
+	margin-left: 60px;
+	margin-bottom: 25px;
+	vertical-align: center;
+
+}
+
+/*first-section*/
+.date .date-number{
+	background-color:#3D58A6;
+	padding: 10px;
+	color: white;
+	display: inline-block;
+	font-size: 50px;
+}
+.date-number .month{
+	margin-top: ;
+}
+h3{
+	margin-top: 20px;
+	font-size: 20px;
+}
+.month{
+	font-size: 25px;
+	color: #3D58A6;
+}
+.poto1{
+	margin-top:30px;
+	vertical-align: top;
+	
+}
+.first-section .text1{
+display: inline-block;
+margin-left: 40px;
+margin-top: 25px;
+}
+/*first-section*/
+/*secont-section*/
+.second-section div{
+	margin-top: 50px;
+}
+.second-section .text2{
+display: inline-block;
+margin-left: 40px;
+margin-top: 25px;
+}
+.poto2{
+	margin-top: 30px;
+	vertical-align: top;
+}
+/*third-section*/
+.third-section div{
+	margin-top: 50px;
+}
+.third-section .text3{
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 25px;
+
+}
+.poto3{
+	margin-top: 30px;
+	vertical-align: top;
+}
+/*footer*/
+.fb{
+	padding-right: 35px;
+	border-right: 1px solid #363E97;
+}
+.Youtube{
+padding-left: 35px;
+}
+/*footer*/
+/*contact*/
+.contact-section{
+	margin: 80px 90px;
+
+}
+.contact-section span{
+	color: #808080;
+}
+.contact-section h3{
+	color: #3D58A6;
+}
+.main-article div{
+	background-color: #CBC5C5;
+}
+
+.main-article h4{
+	color: #3D58A6;
+	padding-bottom: 20px;
+
+}
+footer{
+	margin-top: 25px;
+}
+.teqstis-artikli{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 60px;
+}
+.map{
+	width: 850px;
+	height: auto;
+}
+
+
+
+
+
+
+
+
+
+
